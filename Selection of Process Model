@@ -1,0 +1,19 @@
+In our Delivery Management System, we picked Extreme Programming (XP) as a development model. The XP model works well for our projects where requirements can change and where we can get feedback from customers and use common sense principles to develop our project easily. It helps us to stay flexible and focused on delivering quality at each step of the process. 
+
+ 
+
+XP is a software development method which built around the idea of doing simple to understand practices, getting feedback from customers, and improving the system over time. XP encourages continuous communication between the development team and the customer to make sure the software always fulfills the customer's needs. 
+
+ 
+
+Exploration: In This phase we can gather requirements from the customer and our development team gets knowledge about the tools and technologies that we will use. This phase can take two weeks of our project time. 
+
+Planning: At first, we can write the user stories (features) and estimate the effort of the working of the user stories for the implementation we can give priorities of the user stories and the releasing schedule will create.  
+
+Iterations to Release: Before the first release of our system several iterations will include, and it takes two weeks for implementation. In the first iteration the architecture of the hole system will be created. Customers can select the stories in each iteration. When all the iteration is completed, our project will be ready for production. 
+
+Productionizing: When the system is ready for release, we can do extra testing and performance checks. We can also review any last-minute changes that might need to be included in our project. 
+
+Maintenance: After the first release, we can keep our system running and produce some new iteration simultaneously. We can also have some developers to maintain our project. 
+
+Death: After the satisfaction of the customer needs this phase occurred and we can write our necessary documents of the system.  
